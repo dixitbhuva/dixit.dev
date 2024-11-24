@@ -1,2 +1,1 @@
-# dixit.dev
-Dixit Bhuva's Personal Site
+# [https://dixit.dev/](https://dixit.dev/)
